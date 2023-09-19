@@ -10,3 +10,9 @@
 ``` javascript
 var myVar = "Now we doin' the real coding!";
 ```
+
+- [x] Get the BLU briefcase
+- [x] Get the Gnome
+- [x] Go to space
+- [x] Save Christmas (Learn to care about Wh*ville)
+- [ ] Release a fully functional game
